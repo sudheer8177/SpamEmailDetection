@@ -70,7 +70,7 @@ To get a local copy up and running follow these simple example steps.
 1. Clone the repo
 
    ```sh
-   ```
+   ```git clone gh repo clone sudheer8177/SpamEmailDetection
 2. Install the required libraries
 
    ```sh
